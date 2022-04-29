@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="square_first">40dp</dimen>
+    <dimen name="square_second">60dp</dimen>
+    <dimen name="rectangle_height_first">20dp</dimen>
+    <dimen name="rectangle_height_second">120dp</dimen>
+    <dimen name="margins">12dp</dimen>
+    <dimen name="rectangle_square_spacing">8dp</dimen>
+</resources>
